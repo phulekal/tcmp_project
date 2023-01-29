@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\Talend_Studio\jre1.8.202-zulu" version="1.8.0_202">
+<bootpath>
+<entry path="D:\Talend_Studio\jre1.8.202-zulu\lib\resources.jar"/>
+<entry path="D:\Talend_Studio\jre1.8.202-zulu\lib\rt.jar"/>
+<entry path="D:\Talend_Studio\jre1.8.202-zulu\lib\sunrsasign.jar"/>
+<entry path="D:\Talend_Studio\jre1.8.202-zulu\lib\jsse.jar"/>
+<entry path="D:\Talend_Studio\jre1.8.202-zulu\lib\jce.jar"/>
+<entry path="D:\Talend_Studio\jre1.8.202-zulu\lib\charsets.jar"/>
+<entry path="D:\Talend_Studio\jre1.8.202-zulu\lib\jfr.jar"/>
+<entry path="D:\Talend_Studio\jre1.8.202-zulu\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\Talend_Studio\jre1.8.202-zulu\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\Talend_Studio\jre1.8.202-zulu\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

@@ -1,0 +1,370 @@
+!SESSION 2023-01-29 23:38:38.095 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_202
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:38:41.996
+!MESSAGE 2023-01-29 23:38:41,981 INFO  org.talend.platform.logging.Activator  - 
+!!------------------------------------------------------------------------!!
+!!                                                                        !!
+!!                                 TALEND                                 !!
+!!   Starting Talend's platform log system.VERSION= 7.3.1.20190923_1038   !!
+!!                                                                        !!
+!!------------------------------------------------------------------------!!
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:38:42.169
+!MESSAGE 2023-01-29 23:38:42,169 INFO  org.talend.utils.StudioKeysFileCheck  - encryptionKeyFilePath: D:\Talend_Studio\studio\configuration\studio.keys
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:38:45.469
+!MESSAGE 2023-01-29 23:38:45,469 INFO  org.talend.repository.ui.login.LoginProjectPage  - validate updatesite...
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:39:02.572
+!MESSAGE 2023-01-29 23:39:02,571 INFO  org.talend.datacleansing.core.CleansingActivator  - Starting Talend Data Profiler platform.
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:11.670
+!MESSAGE 2023-01-29 23:39:11,670 WARN  org.talend.sdk.component.studio.logging.JULToOsgiHandler  - [org.talend.sdk.component.server.service.ComponentManagerService.init] No system property 'jdk.serialFilter', ensure it is intended
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.146
+!MESSAGE 2023-01-29 23:39:17,146 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.256
+!MESSAGE 2023-01-29 23:39:17,256 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.356
+!MESSAGE 2023-01-29 23:39:17,350 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.359
+!MESSAGE 2023-01-29 23:39:17,359 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.490
+!MESSAGE 2023-01-29 23:39:17,490 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.569
+!MESSAGE 2023-01-29 23:39:17,569 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.569
+!MESSAGE 2023-01-29 23:39:17,569 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.701
+!MESSAGE 2023-01-29 23:39:17,701 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.710
+!MESSAGE 2023-01-29 23:39:17,710 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.726
+!MESSAGE 2023-01-29 23:39:17,710 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.773
+!MESSAGE 2023-01-29 23:39:17,773 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.804
+!MESSAGE 2023-01-29 23:39:17,804 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.820
+!MESSAGE 2023-01-29 23:39:17,820 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.961
+!MESSAGE 2023-01-29 23:39:17,961 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:17.977
+!MESSAGE 2023-01-29 23:39:17,977 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:39:24.916
+!MESSAGE 2023-01-29 23:39:24,916 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  - D:\Talend_Studio\studio\workspaces\tcmp_test\TCMP_PROJECT\poms
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:39:24.916
+!MESSAGE 2023-01-29 23:39:24,916 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  -  mvn -B -o -s D:\Talend_Studio\studio\configuration\maven_user_settings.xml install -llr -N -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:39:34.279
+!MESSAGE 2023-01-29 23:39:34,279 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  - D:\Talend_Studio\studio\workspaces\tcmp_test\TCMP_PROJECT\poms\code\routines
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:39:34.279
+!MESSAGE 2023-01-29 23:39:34,279 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  -  mvn -B -o -s D:\Talend_Studio\studio\configuration\maven_user_settings.xml install -llr -Dmaven.main.skip=true -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:39:38.549
+!MESSAGE 2023-01-29 23:39:38,549 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/TCMP_PROJECT_ROUTINES: org.example.tcmp_project.code:routines:7.3.1 with classifier  to /TCMP_PROJECT_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:39:38.627
+!MESSAGE 2023-01-29 23:39:38,627 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  - D:\Talend_Studio\studio\workspaces\tcmp_test\TCMP_PROJECT\poms\code\beans
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:39:38.627
+!MESSAGE 2023-01-29 23:39:38,627 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  -  mvn -B -o -s D:\Talend_Studio\studio\configuration\maven_user_settings.xml install -llr -Dmaven.main.skip=true -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:39:41.862
+!MESSAGE 2023-01-29 23:39:41,862 INFO  org.talend.core.repository.model.ProxyRepositoryFactory  - phulekal@talend.com logged on tcmp_project
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:39:43.252
+!MESSAGE 2023-01-29 23:39:43,252 INFO  org.talend.core.repository.logintask.ReadOnlyProjectConfirm  - ReadOnly confirm
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:43.691
+!MESSAGE 2023-01-29 23:39:43,675 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:43.691
+!MESSAGE 2023-01-29 23:39:43,691 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:43.722
+!MESSAGE 2023-01-29 23:39:43,722 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:43.738
+!MESSAGE 2023-01-29 23:39:43,738 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:43.753
+!MESSAGE 2023-01-29 23:39:43,738 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:43.754
+!MESSAGE 2023-01-29 23:39:43,754 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:43.785
+!MESSAGE 2023-01-29 23:39:43,785 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:43.895
+!MESSAGE 2023-01-29 23:39:43,895 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:43.973
+!MESSAGE 2023-01-29 23:39:43,973 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:43.973
+!MESSAGE 2023-01-29 23:39:43,973 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:44.005
+!MESSAGE 2023-01-29 23:39:44,005 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:44.005
+!MESSAGE 2023-01-29 23:39:44,005 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:44.036
+!MESSAGE 2023-01-29 23:39:44,036 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:44.054
+!MESSAGE 2023-01-29 23:39:44,054 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:44.068
+!MESSAGE 2023-01-29 23:39:44,068 WARN  org.talend.commons.exception.CommonExceptionHandler  - Missing module group definition: HDFS-LIB-CDH_5_4_LASTEST
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:39:45.009
+!MESSAGE 2023-01-29 23:39:45,009 INFO  org.talend.repository.view.remote.InitializeLockStatusLoginTask  - Initialize lock status
+
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-01-29 23:39:55.889
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\phulekal'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.talend.platform.logging 4 0 2023-01-29 23:39:56.909
+!MESSAGE 2023-01-29 23:39:56,893 ERROR com.oaklandsw.base.AppRuntimeImpl  - Cannot access project at {0}
+
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/X12 HIPAA documentation)[368]: java.lang.Exception: Resource '/X12 HIPAA documentation' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1024)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1110)
+	at com.oaklandsw.base.AppRuntimeImpl.addProjectWithLocation(AppRuntimeImpl.java:711)
+	at com.oaklandsw.base.AppRuntimeImpl.addProjectPlugin(AppRuntimeImpl.java:850)
+	at com.oaklandsw.base.AppRuntimeImpl.addDataPlugin(AppRuntimeImpl.java:832)
+	at com.oaklandsw.transform.runtime.RuntimeEngineImpl.addDataPlugin(RuntimeEngineImpl.java:995)
+	at com.oaklandsw.gui.AppEditorImpl$4.run(AppEditorImpl.java:613)
+	at com.oaklandsw.gui.AppEditorImpl.showWaitCursorWhileProgress(AppEditorImpl.java:2356)
+	at com.oaklandsw.gui.AppEditorImpl.showWaitCursorWhileProgress(AppEditorImpl.java:2309)
+	at com.oaklandsw.gui.AppEditorImpl.checkAddDataPlugin(AppEditorImpl.java:608)
+	at com.oaklandsw.gui.AppEditorImpl.<init>(AppEditorImpl.java:328)
+	at com.oaklandsw.transform.editor.Editor.<init>(Editor.java:320)
+	at com.oaklandsw.transform.editor.Editor.getOrCreateEditor(Editor.java:2681)
+	at org.talend.transform.views.TransformStartup.earlyStartup(TransformStartup.java:41)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:80)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:56)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.Workbench$39.run(Workbench.java:2710)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2023-01-29 23:39:56.909
+!MESSAGE Resource '/X12 HIPAA documentation' does not exist.
+!STACK 0
+java.lang.Exception: Resource '/X12 HIPAA documentation' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1024)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1110)
+	at com.oaklandsw.base.AppRuntimeImpl.addProjectWithLocation(AppRuntimeImpl.java:711)
+	at com.oaklandsw.base.AppRuntimeImpl.addProjectPlugin(AppRuntimeImpl.java:850)
+	at com.oaklandsw.base.AppRuntimeImpl.addDataPlugin(AppRuntimeImpl.java:832)
+	at com.oaklandsw.transform.runtime.RuntimeEngineImpl.addDataPlugin(RuntimeEngineImpl.java:995)
+	at com.oaklandsw.gui.AppEditorImpl$4.run(AppEditorImpl.java:613)
+	at com.oaklandsw.gui.AppEditorImpl.showWaitCursorWhileProgress(AppEditorImpl.java:2356)
+	at com.oaklandsw.gui.AppEditorImpl.showWaitCursorWhileProgress(AppEditorImpl.java:2309)
+	at com.oaklandsw.gui.AppEditorImpl.checkAddDataPlugin(AppEditorImpl.java:608)
+	at com.oaklandsw.gui.AppEditorImpl.<init>(AppEditorImpl.java:328)
+	at com.oaklandsw.transform.editor.Editor.<init>(Editor.java:320)
+	at com.oaklandsw.transform.editor.Editor.getOrCreateEditor(Editor.java:2681)
+	at org.talend.transform.views.TransformStartup.earlyStartup(TransformStartup.java:41)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:80)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:56)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.Workbench$39.run(Workbench.java:2710)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.talend.platform.logging 2 0 2023-01-29 23:39:56.909
+!MESSAGE 2023-01-29 23:39:56,909 WARN  com.oaklandsw.gui.AppEditorImpl  - checkAddDataPlugin: Bundle: org.talend.transform.standard.x12.hipaa.5010.doc failed to start
+
+!STACK 0
+java.io.IOException: org.eclipse.core.internal.resources.ResourceException: Resource '/X12 HIPAA documentation' does not exist.
+	at com.oaklandsw.base.AppRuntimeImpl.addProjectWithLocation(AppRuntimeImpl.java:757)
+	at com.oaklandsw.base.AppRuntimeImpl.addProjectPlugin(AppRuntimeImpl.java:850)
+	at com.oaklandsw.base.AppRuntimeImpl.addDataPlugin(AppRuntimeImpl.java:832)
+	at com.oaklandsw.transform.runtime.RuntimeEngineImpl.addDataPlugin(RuntimeEngineImpl.java:995)
+	at com.oaklandsw.gui.AppEditorImpl$4.run(AppEditorImpl.java:613)
+	at com.oaklandsw.gui.AppEditorImpl.showWaitCursorWhileProgress(AppEditorImpl.java:2356)
+	at com.oaklandsw.gui.AppEditorImpl.showWaitCursorWhileProgress(AppEditorImpl.java:2309)
+	at com.oaklandsw.gui.AppEditorImpl.checkAddDataPlugin(AppEditorImpl.java:608)
+	at com.oaklandsw.gui.AppEditorImpl.<init>(AppEditorImpl.java:328)
+	at com.oaklandsw.transform.editor.Editor.<init>(Editor.java:320)
+	at com.oaklandsw.transform.editor.Editor.getOrCreateEditor(Editor.java:2681)
+	at org.talend.transform.views.TransformStartup.earlyStartup(TransformStartup.java:41)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.runEarlyStartup(EarlyStartupRunnable.java:80)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:56)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.Workbench$39.run(Workbench.java:2710)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.internal.resources.ResourceException: Resource '/X12 HIPAA documentation' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:330)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1024)
+	at org.eclipse.core.internal.resources.Project.open(Project.java:1110)
+	at com.oaklandsw.base.AppRuntimeImpl.addProjectWithLocation(AppRuntimeImpl.java:711)
+	... 16 more
+Caused by: java.lang.Exception: Resource '/X12 HIPAA documentation' does not exist.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	... 20 more
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:16.250
+!MESSAGE 2023-01-29 23:40:16,250 INFO  org.talend.dq.indicators.definitions.DefinitionHandler  - Indicator default definitions correctly saved in platform:/resource/TCMP_PROJECT/TDQ_Libraries/.Talend.definition
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:18.063
+!MESSAGE 2023-01-29 23:40:18,063 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/TCMP_PROJECT_ROUTINES: org.example.tcmp_project.code:routines:7.3.1 with classifier  to /TCMP_PROJECT_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:18.157
+!MESSAGE 2023-01-29 23:40:18,157 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /TCMP_PROJECT_JOB_01_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:18.157
+!MESSAGE 2023-01-29 23:40:18,157 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /TCMP_PROJECT_JOB_01_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:18.178
+!MESSAGE 2023-01-29 23:40:18,173 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /TCMP_PROJECT_JOB_01_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:18.181
+!MESSAGE 2023-01-29 23:40:18,179 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /TCMP_PROJECT_JOB_01_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:31.492
+!MESSAGE 2023-01-29 23:40:31,492 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  - D:\Talend_Studio\studio\workspaces\tcmp_test\TCMP_PROJECT\poms\code\routines
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:31.492
+!MESSAGE 2023-01-29 23:40:31,492 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  -  mvn -B -o -s D:\Talend_Studio\studio\configuration\maven_user_settings.xml install -llr -Dmaven.main.skip=true -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:34.745
+!MESSAGE 2023-01-29 23:40:34,745 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/TCMP_PROJECT_ROUTINES: org.example.tcmp_project.code:routines:7.3.1 with classifier  to /TCMP_PROJECT_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:34.745
+!MESSAGE 2023-01-29 23:40:34,745 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  - D:\Talend_Studio\studio\workspaces\tcmp_test\TCMP_PROJECT\poms\code\beans
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:34.761
+!MESSAGE 2023-01-29 23:40:34,761 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  -  mvn -B -o -s D:\Talend_Studio\studio\configuration\maven_user_settings.xml install -llr -Dmaven.main.skip=true -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:39.249
+!MESSAGE 2023-01-29 23:40:39,249 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update started
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:39.322
+!MESSAGE 2023-01-29 23:40:39,322 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/TCMP_PROJECT_ROUTINES: org.example.tcmp_project.code:routines:7.3.1 with classifier  to /TCMP_PROJECT_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:39.416
+!MESSAGE 2023-01-29 23:40:39,416 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /TCMP_PROJECT_JOB_01_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:39.416
+!MESSAGE 2023-01-29 23:40:39,416 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /TCMP_PROJECT_JOB_01_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:39.416
+!MESSAGE 2023-01-29 23:40:39,416 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /TCMP_PROJECT_JOB_01_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:39.416
+!MESSAGE 2023-01-29 23:40:39,416 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /TCMP_PROJECT_JOB_01_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:39.548
+!MESSAGE 2023-01-29 23:40:39,548 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update completed: 0 sec
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:39.659
+!MESSAGE 2023-01-29 23:40:39,659 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/TCMP_PROJECT_ROUTINES: org.example.tcmp_project.code:routines:7.3.1 with classifier  to /TCMP_PROJECT_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:43.222
+!MESSAGE 2023-01-29 23:40:43,222 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  - D:\Talend_Studio\studio\workspaces\tcmp_test\TCMP_PROJECT\poms\jobs\process\job_01_0.1
+
+
+!ENTRY org.talend.platform.logging 1 0 2023-01-29 23:40:43.222
+!MESSAGE 2023-01-29 23:40:43,222 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  -  mvn -B -o -s D:\Talend_Studio\studio\configuration\maven_user_settings.xml package -llr -l D:/Talend_Studio/studio/workspaces/tcmp_test/TCMP_PROJECT/poms/jobs/process/job_01_0.1/lastGenerated.log -P default-settings,!include-java-sources,!include-maven-resources,include-items,include-libs,include-binaries,include-running-log4j,!include-log4j,include-contexts,!include-test-sources,!include-test-reports,!include-xmlMappings,!include-running-xmlMappings,packaging-and-assembly,!ci-builder,signature -Dmaven.test.skip=true -Dlicense.path="D:\Talend_Studio\studio\license" -Dsession.id=OTM0NjQ0MTY3NTAzMjA0MzIyMg== -Dmaven.main.skip=true -Dci.builder.skip=true
+

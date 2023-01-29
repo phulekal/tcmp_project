@@ -1,0 +1,52 @@
+[INFO] Disabling enhanced local repository: using legacy is strongly discouraged to ensure build reproducibility.
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------< org.example.tcmp_project.job:job_01 >-----------------
+[INFO] Building TCMP_PROJECT job_01-0.1.0 (0.1,Job Designs) 0.1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[WARNING] The POM for org.dom4j:dom4j:jar:2.1.1 is missing, no dependency information available
+[WARNING] The POM for org.apache.logging.log4j:log4j-api:jar:2.12.1 is missing, no dependency information available
+[WARNING] The POM for org.apache.logging.log4j:log4j-core:jar:2.12.1 is missing, no dependency information available
+[WARNING] The POM for org.apache.logging.log4j:log4j-slf4j-impl:jar:2.12.1 is missing, no dependency information available
+[INFO] 
+[INFO] --- builder-maven-plugin:7.3.1:generate (default) @ job_01 ---
+[INFO] Skipping ci-builder
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ job_01 ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:compile (default-compile) @ job_01 ---
+[WARNING] The POM for org.eclipse.platform:org.eclipse.osgi:jar:3.13.300 is missing, no dependency information available
+[WARNING] The POM for org.apache.commons:commons-exec:jar:1.2 is missing, no dependency information available
+[INFO] Not compiling main sources
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ job_01 ---
+[INFO] Not copying test resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:testCompile (default-testCompile) @ job_01 ---
+[INFO] Not compiling test sources
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.20:test (default-test) @ job_01 ---
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- maven-jar-plugin:3.0.2:jar (default-jar) @ job_01 ---
+[INFO] Building jar: D:\Talend_Studio\studio\workspaces\tcmp_test\TCMP_PROJECT\poms\jobs\process\job_01_0.1\target\job_01_0_1.jar
+[INFO] 
+[INFO] --- maven-assembly-plugin:3.0.0:single (default) @ job_01 ---
+[INFO] Reading assembly descriptor: D:\Talend_Studio\studio\workspaces\tcmp_test\TCMP_PROJECT\poms\jobs\process\job_01_0.1/src/main/assemblies/assembly.xml
+[WARNING] Missing POM for org.dom4j:dom4j:jar:2.1.1
+[WARNING] Missing POM for org.apache.logging.log4j:log4j-api:jar:2.12.1
+[WARNING] Missing POM for org.apache.logging.log4j:log4j-core:jar:2.12.1
+[WARNING] Missing POM for org.apache.logging.log4j:log4j-slf4j-impl:jar:2.12.1
+[INFO] Building zip: D:\Talend_Studio\studio\workspaces\tcmp_test\TCMP_PROJECT\poms\jobs\process\job_01_0.1\target\job_01_0_1.zip
+[INFO] 
+[INFO] --- signer-maven-plugin:7.3.1:sign (sign) @ job_01 ---
+[INFO] Start to sign the job artifact
+[INFO] Start to sign artifact, the source file is job_01_0_1.zip and target file is job_01_0_1_sign_.zip
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 1.805 s
+[INFO] Finished at: 2023-01-29T23:40:46+01:00
+[INFO] ------------------------------------------------------------------------
